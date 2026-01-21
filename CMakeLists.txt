@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(sonar_driver_interface)
+project(sonar_driver_interfaces)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)

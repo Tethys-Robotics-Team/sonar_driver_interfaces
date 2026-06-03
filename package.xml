@@ -5,9 +5,7 @@
   <version>2.0.0</version>
   <description>Package containing custom messages for the sonar_driver package</description>
   <maintainer email="software@tethys-robotics.ch">Tethys Robotics AG</maintainer>
-  <license>MIT</license>
-
-  <buildtool_depend>ament_cmake</buildtool_depend>
+  <license>Copyright (c) 2024 Tethys Robotics AG. All rights reserved.</license>
 
   <depend>rclcpp</depend>
   <depend>std_msgs</depend>
